@@ -1,2 +1,2 @@
 # Data-Sience-using-R
-Data Science Projects using R
+Data Science projects using R
